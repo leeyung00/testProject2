@@ -37,3 +37,9 @@ out/
 .vscode/
 
 src/main/resources/
+src/test/
+gradle
+build.gradle
+.gitattributes
+gradlew
+settings.gradle
