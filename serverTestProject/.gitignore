@@ -42,4 +42,5 @@ gradle
 build.gradle
 .gitattributes
 gradlew
+gradlew.bat
 settings.gradle
